@@ -4,7 +4,8 @@
   "description": "ejemplo para la creación de un nuevo proyecto en js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node ./node_modules/jest/bin/jest"
   },
   "keywords": [
     "npm",
