@@ -1,0 +1,20 @@
+{
+  "name": "launchxapp",
+  "version": "1.0.0",
+  "description": "ejemplo para la creación de un nuevo proyecto en js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "dependency",
+    "js"
+  ],
+  "author": "GustavoLira\u001b[D\u001b[D\u001b[D\u001b[D gustavo lira",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
